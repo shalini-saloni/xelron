@@ -1,0 +1,12 @@
+[
+  {"id": 1,  "category": "Electronics", "amount": 299.99, "units": 1},
+  {"id": 2,  "category": "Books",       "amount": 14.99,  "units": 3},
+  {"id": 3,  "category": "Clothing",    "amount": 49.95,  "units": 2},
+  {"id": 4,  "category": "Electronics", "amount": 89.99,  "units": 1},
+  {"id": 5,  "category": "Books",       "amount": 9.99,   "units": 1},
+  {"id": 6,  "category": "Clothing",    "amount": 24.50,  "units": 1},
+  {"id": 7,  "category": "Toys",        "amount": 34.99,  "units": 4},
+  {"id": 8,  "category": "Electronics", "amount": 149.00, "units": 2},
+  {"id": 9,  "category": "Toys",        "amount": 19.99,  "units": 2},
+  {"id": 10, "category": "Books",       "amount": 22.50,  "units": 5}
+]
