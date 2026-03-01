@@ -1,0 +1,9 @@
+[task]
+name = "json-sales-summary"
+version = "0.1.0"
+difficulty = "easy"
+author = "new-hire"
+description = "Transform a JSON file of raw sales records into a summary report grouped by category."
+
+[task.tags]
+topics = ["json", "data-processing", "aggregation"]
